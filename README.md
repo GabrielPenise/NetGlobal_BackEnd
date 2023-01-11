@@ -195,6 +195,6 @@ Puedes ver todos los metodos de la API descargando la [colección de POSTMAN](ht
 - Alberto Carrillo de Comas - albertokarri@gmail.com
 - Gerardo Burgos - ...@gmail.com
 
-Link del proyecto: [https://github.com/GabrielPenise/netglobal](https://github.com/GabrielPenise/netglobal)
+
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
